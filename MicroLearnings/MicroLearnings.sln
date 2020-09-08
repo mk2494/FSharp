@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MicroLearnings", "MicroLearnings\MicroLearnings.fsproj", "{8D808F42-EBFC-4A64-AB79-90682DC34FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D808F42-EBFC-4A64-AB79-90682DC34FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D808F42-EBFC-4A64-AB79-90682DC34FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D808F42-EBFC-4A64-AB79-90682DC34FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D808F42-EBFC-4A64-AB79-90682DC34FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
