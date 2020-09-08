@@ -1,3 +1,38 @@
 # FSharp Basics
----
 Learning basics of programming in FSharp
+
+- Program Structure
+- Syntax
+- Data Types
+- Variables
+- Operators
+- Decision Making
+- Loops
+- Functions
+- Strings
+- Options
+- Tuples
+- Records
+- Lists 
+- Sequences
+- Sets
+- Maps
+- Discriminated Unions
+- Mutable Data
+- Arrays
+- Mutable Lists
+- Mutable Dictionary
+- Basic I/O
+- Generics 
+- Delegates
+- Enumerations
+- Pattern Matching
+- Exception Handling
+- Classes
+- Structures
+- Operator Overloading
+- Inheritance
+- Interfaces
+- Events
+- Modules
+- Namespaces
