@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <Compile Include="Program.fs" />
+    <Compile Include="4. Variables.fs" />
+    <Compile Include="1. ProgramStructure.fs" />
   </ItemGroup>
 
 </Project>

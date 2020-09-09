@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{8D808F42-EBFC-4A64-AB79-90682DC34FDB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroLearnings/Program.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroLearnings/4. Variables.fs">
     <Files>
       <File FileName="MicroLearnings/Program.fs" Line="9" Column="1" />
+      <File FileName="MicroLearnings/Variables.fs" Line="32" Column="1" />
+      <File FileName="MicroLearnings/ProgramStructure.fs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroLearnings" expanded="True">
             <Node name="MicroLearnings" expanded="True">
-              <Node name="Program.fs" selected="True" />
+              <Node name="4. Variables.fs" selected="True" />
             </Node>
           </Node>
         </State>
